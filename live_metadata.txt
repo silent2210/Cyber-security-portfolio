@@ -1,0 +1,1158 @@
+======== extracted_bilder/audit.txt
+ExifTool Version Number         : 13.25
+File Name                       : audit.txt
+Directory                       : extracted_bilder
+File Size                       : 3.5 kB
+File Modification Date/Time     : 2025:07:31 06:32:35-04:00
+File Access Date/Time           : 2025:07:31 06:32:35-04:00
+File Inode Change Date/Time     : 2025:07:31 06:32:35-04:00
+File Permissions                : -rw-rw-r--
+File Type                       : TXT
+File Type Extension             : txt
+MIME Type                       : text/plain
+MIME Encoding                   : us-ascii
+Newlines                        : Unix LF
+Line Count                      : 76
+Word Count                      : 461
+======== extracted_bilder/gif/00001604.gif
+ExifTool Version Number         : 13.25
+File Name                       : 00001604.gif
+Directory                       : extracted_bilder/gif
+File Size                       : 538 bytes
+File Modification Date/Time     : 2025:07:31 06:32:35-04:00
+File Access Date/Time           : 2025:07:31 06:32:35-04:00
+File Inode Change Date/Time     : 2025:07:31 06:32:35-04:00
+File Permissions                : -rw-rw-r--
+File Type                       : GIF
+File Type Extension             : gif
+MIME Type                       : image/gif
+GIF Version                     : 89a
+Image Width                     : 120
+Image Height                    : 20
+Has Color Map                   : Yes
+Color Resolution Depth          : 5
+Bits Per Pixel                  : 5
+Background Color                : 0
+Image Size                      : 120x20
+Megapixels                      : 0.002
+======== extracted_bilder/gif/00001360.gif
+ExifTool Version Number         : 13.25
+File Name                       : 00001360.gif
+Directory                       : extracted_bilder/gif
+File Size                       : 700 bytes
+File Modification Date/Time     : 2025:07:31 06:32:35-04:00
+File Access Date/Time           : 2025:07:31 06:32:35-04:00
+File Inode Change Date/Time     : 2025:07:31 06:32:35-04:00
+File Permissions                : -rw-rw-r--
+File Type                       : GIF
+File Type Extension             : gif
+MIME Type                       : image/gif
+GIF Version                     : 89a
+Image Width                     : 118
+Image Height                    : 13
+Has Color Map                   : Yes
+Color Resolution Depth          : 5
+Bits Per Pixel                  : 5
+Background Color                : 0
+Image Size                      : 118x13
+Megapixels                      : 0.002
+======== extracted_bilder/gif/00000238.gif
+ExifTool Version Number         : 13.25
+File Name                       : 00000238.gif
+Directory                       : extracted_bilder/gif
+File Size                       : 243 bytes
+File Modification Date/Time     : 2025:07:31 06:32:35-04:00
+File Access Date/Time           : 2025:07:31 06:32:35-04:00
+File Inode Change Date/Time     : 2025:07:31 06:32:35-04:00
+File Permissions                : -rw-rw-r--
+File Type                       : GIF
+File Type Extension             : gif
+MIME Type                       : image/gif
+GIF Version                     : 89a
+Image Width                     : 30
+Image Height                    : 28
+Has Color Map                   : Yes
+Color Resolution Depth          : 7
+Bits Per Pixel                  : 7
+Background Color                : 0
+Error                           : File format error
+Image Size                      : 30x28
+Megapixels                      : 0.000840
+======== extracted_bilder/gif/00001355.gif
+ExifTool Version Number         : 13.25
+File Name                       : 00001355.gif
+Directory                       : extracted_bilder/gif
+File Size                       : 97 bytes
+File Modification Date/Time     : 2025:07:31 06:32:35-04:00
+File Access Date/Time           : 2025:07:31 06:32:35-04:00
+File Inode Change Date/Time     : 2025:07:31 06:32:35-04:00
+File Permissions                : -rw-rw-r--
+File Type                       : GIF
+File Type Extension             : gif
+MIME Type                       : image/gif
+GIF Version                     : 89a
+Image Width                     : 389
+Image Height                    : 65328
+Has Color Map                   : Yes
+Color Resolution Depth          : 7
+Bits Per Pixel                  : 7
+Background Color                : 0
+Pixel Aspect Ratio              : 2.328125
+Error                           : File format error
+Image Size                      : 389x65328
+Megapixels                      : 25.4
+======== extracted_bilder/gif/00001636.gif
+ExifTool Version Number         : 13.25
+File Name                       : 00001636.gif
+Directory                       : extracted_bilder/gif
+File Size                       : 187 bytes
+File Modification Date/Time     : 2025:07:31 06:32:35-04:00
+File Access Date/Time           : 2025:07:31 06:32:35-04:00
+File Inode Change Date/Time     : 2025:07:31 06:32:35-04:00
+File Permissions                : -rw-rw-r--
+File Type                       : GIF
+File Type Extension             : gif
+MIME Type                       : image/gif
+GIF Version                     : 89a
+Image Width                     : 15
+Image Height                    : 947
+Has Color Map                   : No
+Color Resolution Depth          : 4
+Bits Per Pixel                  : 1
+Background Color                : 255
+Pixel Aspect Ratio              : 3.828125
+Image Size                      : 15x947
+Megapixels                      : 0.014
+======== extracted_bilder/gif/00001348.gif
+ExifTool Version Number         : 13.25
+File Name                       : 00001348.gif
+Directory                       : extracted_bilder/gif
+File Size                       : 526 bytes
+File Modification Date/Time     : 2025:07:31 06:32:35-04:00
+File Access Date/Time           : 2025:07:31 06:32:35-04:00
+File Inode Change Date/Time     : 2025:07:31 06:32:35-04:00
+File Permissions                : -rw-rw-r--
+File Type                       : GIF
+File Type Extension             : gif
+MIME Type                       : image/gif
+GIF Version                     : 89a
+Image Width                     : 15
+Image Height                    : 15
+Has Color Map                   : Yes
+Color Resolution Depth          : 5
+Bits Per Pixel                  : 5
+Background Color                : 0
+Error                           : File format error
+Image Size                      : 15x15
+Megapixels                      : 0.000225
+======== extracted_bilder/gif/00000235.gif
+ExifTool Version Number         : 13.25
+File Name                       : 00000235.gif
+Directory                       : extracted_bilder/gif
+File Size                       : 805 bytes
+File Modification Date/Time     : 2025:07:31 06:32:35-04:00
+File Access Date/Time           : 2025:07:31 06:32:35-04:00
+File Inode Change Date/Time     : 2025:07:31 06:32:35-04:00
+File Permissions                : -rw-rw-r--
+File Type                       : GIF
+File Type Extension             : gif
+MIME Type                       : image/gif
+GIF Version                     : 89a
+Image Width                     : 120
+Image Height                    : 13
+Has Color Map                   : Yes
+Color Resolution Depth          : 5
+Bits Per Pixel                  : 5
+Background Color                : 0
+Image Size                      : 120x13
+Megapixels                      : 0.002
+======== extracted_bilder/gif/00000232.gif
+ExifTool Version Number         : 13.25
+File Name                       : 00000232.gif
+Directory                       : extracted_bilder/gif
+File Size                       : 1359 bytes
+File Modification Date/Time     : 2025:07:31 06:32:35-04:00
+File Access Date/Time           : 2025:07:31 06:32:35-04:00
+File Inode Change Date/Time     : 2025:07:31 06:32:35-04:00
+File Permissions                : -rw-rw-r--
+File Type                       : GIF
+File Type Extension             : gif
+MIME Type                       : image/gif
+GIF Version                     : 89a
+Image Width                     : 118
+Image Height                    : 25
+Has Color Map                   : Yes
+Color Resolution Depth          : 5
+Bits Per Pixel                  : 5
+Background Color                : 0
+Image Size                      : 118x25
+Megapixels                      : 0.003
+======== extracted_bilder/gif/00000241.gif
+ExifTool Version Number         : 13.25
+File Name                       : 00000241.gif
+Directory                       : extracted_bilder/gif
+File Size                       : 6.4 kB
+File Modification Date/Time     : 2025:07:31 06:32:35-04:00
+File Access Date/Time           : 2025:07:31 06:32:35-04:00
+File Inode Change Date/Time     : 2025:07:31 06:32:35-04:00
+File Permissions                : -rw-rw-r--
+File Type                       : GIF
+File Type Extension             : gif
+MIME Type                       : image/gif
+GIF Version                     : 89a
+Image Width                     : 30
+Image Height                    : 28
+Has Color Map                   : Yes
+Color Resolution Depth          : 7
+Bits Per Pixel                  : 7
+Background Color                : 0
+Image Size                      : 30x28
+Megapixels                      : 0.000840
+======== extracted_bilder/gif/00001356.gif
+ExifTool Version Number         : 13.25
+File Name                       : 00001356.gif
+Directory                       : extracted_bilder/gif
+File Size                       : 134 bytes
+File Modification Date/Time     : 2025:07:31 06:32:35-04:00
+File Access Date/Time           : 2025:07:31 06:32:35-04:00
+File Inode Change Date/Time     : 2025:07:31 06:32:35-04:00
+File Permissions                : -rw-rw-r--
+File Type                       : GIF
+File Type Extension             : gif
+MIME Type                       : image/gif
+GIF Version                     : 89a
+Image Width                     : 15
+Image Height                    : 15
+Has Color Map                   : Yes
+Color Resolution Depth          : 5
+Bits Per Pixel                  : 5
+Background Color                : 0
+Transparent Color               : 255
+Duration                        : 122.89 s
+Error                           : File format error
+Image Size                      : 15x15
+Megapixels                      : 0.000225
+======== extracted_bilder/gif/00000877.gif
+ExifTool Version Number         : 13.25
+File Name                       : 00000877.gif
+Directory                       : extracted_bilder/gif
+File Size                       : 758 bytes
+File Modification Date/Time     : 2025:07:31 06:32:35-04:00
+File Access Date/Time           : 2025:07:31 06:32:35-04:00
+File Inode Change Date/Time     : 2025:07:31 06:32:35-04:00
+File Permissions                : -rw-rw-r--
+File Type                       : GIF
+File Type Extension             : gif
+MIME Type                       : image/gif
+GIF Version                     : 89a
+Image Width                     : 30
+Image Height                    : 28
+Has Color Map                   : Yes
+Color Resolution Depth          : 7
+Bits Per Pixel                  : 7
+Background Color                : 0
+Image Size                      : 30x28
+Megapixels                      : 0.000840
+======== extracted_bilder/gif/00000063.gif
+ExifTool Version Number         : 13.25
+File Name                       : 00000063.gif
+Directory                       : extracted_bilder/gif
+File Size                       : 123 bytes
+File Modification Date/Time     : 2025:07:31 06:32:35-04:00
+File Access Date/Time           : 2025:07:31 06:32:35-04:00
+File Inode Change Date/Time     : 2025:07:31 06:32:35-04:00
+File Permissions                : -rw-rw-r--
+File Type                       : GIF
+File Type Extension             : gif
+MIME Type                       : image/gif
+GIF Version                     : 89a
+Image Width                     : 1334
+Image Height                    : 65328
+Has Color Map                   : Yes
+Color Resolution Depth          : 7
+Bits Per Pixel                  : 7
+Background Color                : 0
+Pixel Aspect Ratio              : 1.09375
+Error                           : File format error
+Image Size                      : 1334x65328
+Megapixels                      : 87.1
+======== extracted_bilder/gif/00001716.gif
+ExifTool Version Number         : 13.25
+File Name                       : 00001716.gif
+Directory                       : extracted_bilder/gif
+File Size                       : 684 bytes
+File Modification Date/Time     : 2025:07:31 06:32:35-04:00
+File Access Date/Time           : 2025:07:31 06:32:35-04:00
+File Inode Change Date/Time     : 2025:07:31 06:32:35-04:00
+File Permissions                : -rw-rw-r--
+File Type                       : GIF
+File Type Extension             : gif
+MIME Type                       : image/gif
+GIF Version                     : 89a
+Image Width                     : 118
+Image Height                    : 15
+Has Color Map                   : Yes
+Color Resolution Depth          : 5
+Bits Per Pixel                  : 5
+Background Color                : 0
+Duration                        : 166.40 s
+Error                           : File format error
+Image Size                      : 118x15
+Megapixels                      : 0.002
+======== extracted_bilder/gif/00001732.gif
+ExifTool Version Number         : 13.25
+File Name                       : 00001732.gif
+Directory                       : extracted_bilder/gif
+File Size                       : 337 bytes
+File Modification Date/Time     : 2025:07:31 06:32:35-04:00
+File Access Date/Time           : 2025:07:31 06:32:35-04:00
+File Inode Change Date/Time     : 2025:07:31 06:32:35-04:00
+File Permissions                : -rw-rw-r--
+File Type                       : GIF
+File Type Extension             : gif
+MIME Type                       : image/gif
+GIF Version                     : 89a
+Image Width                     : 118
+Image Height                    : 17
+Has Color Map                   : Yes
+Color Resolution Depth          : 4
+Bits Per Pixel                  : 4
+Background Color                : 0
+Image Size                      : 118x17
+Megapixels                      : 0.002
+======== extracted_bilder/gif/00001730.gif
+ExifTool Version Number         : 13.25
+File Name                       : 00001730.gif
+Directory                       : extracted_bilder/gif
+File Size                       : 518 bytes
+File Modification Date/Time     : 2025:07:31 06:32:35-04:00
+File Access Date/Time           : 2025:07:31 06:32:35-04:00
+File Inode Change Date/Time     : 2025:07:31 06:32:35-04:00
+File Permissions                : -rw-rw-r--
+File Type                       : GIF
+File Type Extension             : gif
+MIME Type                       : image/gif
+GIF Version                     : 89a
+Image Width                     : 123
+Image Height                    : 15
+Has Color Map                   : Yes
+Color Resolution Depth          : 8
+Bits Per Pixel                  : 5
+Background Color                : 0
+Image Size                      : 123x15
+Megapixels                      : 0.002
+======== extracted_bilder/gif/00001347.gif
+ExifTool Version Number         : 13.25
+File Name                       : 00001347.gif
+Directory                       : extracted_bilder/gif
+File Size                       : 542 bytes
+File Modification Date/Time     : 2025:07:31 06:32:35-04:00
+File Access Date/Time           : 2025:07:31 06:32:35-04:00
+File Inode Change Date/Time     : 2025:07:31 06:32:35-04:00
+File Permissions                : -rw-rw-r--
+File Type                       : GIF
+File Type Extension             : gif
+MIME Type                       : image/gif
+GIF Version                     : 89a
+Image Width                     : 118
+Image Height                    : 7
+Has Color Map                   : Yes
+Color Resolution Depth          : 5
+Bits Per Pixel                  : 5
+Background Color                : 0
+Error                           : File format error
+Image Size                      : 118x7
+Megapixels                      : 0.000826
+======== extracted_bilder/gif/00001353.gif
+ExifTool Version Number         : 13.25
+File Name                       : 00001353.gif
+Directory                       : extracted_bilder/gif
+File Size                       : 140 bytes
+File Modification Date/Time     : 2025:07:31 06:32:35-04:00
+File Access Date/Time           : 2025:07:31 06:32:35-04:00
+File Inode Change Date/Time     : 2025:07:31 06:32:35-04:00
+File Permissions                : -rw-rw-r--
+File Type                       : GIF
+File Type Extension             : gif
+MIME Type                       : image/gif
+GIF Version                     : 89a
+Image Width                     : 15
+Image Height                    : 378
+Has Color Map                   : No
+Color Resolution Depth          : 4
+Bits Per Pixel                  : 1
+Background Color                : 255
+Pixel Aspect Ratio              : 3.828125
+Image Size                      : 15x378
+Megapixels                      : 0.006
+======== extracted_bilder/gif/00001728.gif
+ExifTool Version Number         : 13.25
+File Name                       : 00001728.gif
+Directory                       : extracted_bilder/gif
+File Size                       : 341 bytes
+File Modification Date/Time     : 2025:07:31 06:32:35-04:00
+File Access Date/Time           : 2025:07:31 06:32:35-04:00
+File Inode Change Date/Time     : 2025:07:31 06:32:35-04:00
+File Permissions                : -rw-rw-r--
+File Type                       : GIF
+File Type Extension             : gif
+MIME Type                       : image/gif
+GIF Version                     : 89a
+Image Width                     : 123
+Image Height                    : 16
+Has Color Map                   : Yes
+Color Resolution Depth          : 8
+Bits Per Pixel                  : 4
+Background Color                : 0
+Error                           : File format error
+Image Size                      : 123x16
+Megapixels                      : 0.002
+======== extracted_bilder/gif/00001719.gif
+ExifTool Version Number         : 13.25
+File Name                       : 00001719.gif
+Directory                       : extracted_bilder/gif
+File Size                       : 3.8 kB
+File Modification Date/Time     : 2025:07:31 06:32:35-04:00
+File Access Date/Time           : 2025:07:31 06:32:35-04:00
+File Inode Change Date/Time     : 2025:07:31 06:32:35-04:00
+File Permissions                : -rw-rw-r--
+File Type                       : GIF
+File Type Extension             : gif
+MIME Type                       : image/gif
+GIF Version                     : 89a
+Image Width                     : 120
+Image Height                    : 20
+Has Color Map                   : Yes
+Color Resolution Depth          : 8
+Bits Per Pixel                  : 8
+Background Color                : 0
+Image Size                      : 120x20
+Megapixels                      : 0.002
+======== extracted_bilder/gif/00001754.gif
+ExifTool Version Number         : 13.25
+File Name                       : 00001754.gif
+Directory                       : extracted_bilder/gif
+File Size                       : 1022 bytes
+File Modification Date/Time     : 2025:07:31 06:32:35-04:00
+File Access Date/Time           : 2025:07:31 06:32:35-04:00
+File Inode Change Date/Time     : 2025:07:31 06:32:35-04:00
+File Permissions                : -rw-rw-r--
+File Type                       : GIF
+File Type Extension             : gif
+MIME Type                       : image/gif
+GIF Version                     : 89a
+Image Width                     : 120
+Image Height                    : 20
+Has Color Map                   : Yes
+Color Resolution Depth          : 8
+Bits Per Pixel                  : 8
+Background Color                : 255
+Image Size                      : 120x20
+Megapixels                      : 0.002
+======== extracted_bilder/gif/00001383.gif
+ExifTool Version Number         : 13.25
+File Name                       : 00001383.gif
+Directory                       : extracted_bilder/gif
+File Size                       : 112 kB
+File Modification Date/Time     : 2025:07:31 06:32:35-04:00
+File Access Date/Time           : 2025:07:31 06:32:35-04:00
+File Inode Change Date/Time     : 2025:07:31 06:32:35-04:00
+File Permissions                : -rw-rw-r--
+File Type                       : GIF
+File Type Extension             : gif
+MIME Type                       : image/gif
+GIF Version                     : 89a
+Image Width                     : 120
+Image Height                    : 20
+Has Color Map                   : Yes
+Color Resolution Depth          : 8
+Bits Per Pixel                  : 8
+Background Color                : 0
+Image Size                      : 120x20
+Megapixels                      : 0.002
+======== extracted_bilder/gif/00000066.gif
+ExifTool Version Number         : 13.25
+File Name                       : 00000066.gif
+Directory                       : extracted_bilder/gif
+File Size                       : 15 kB
+File Modification Date/Time     : 2025:07:31 06:32:35-04:00
+File Access Date/Time           : 2025:07:31 06:32:35-04:00
+File Inode Change Date/Time     : 2025:07:31 06:32:35-04:00
+File Permissions                : -rw-rw-r--
+File Type                       : GIF
+File Type Extension             : gif
+MIME Type                       : image/gif
+GIF Version                     : 89a
+Image Width                     : 118
+Image Height                    : 25
+Has Color Map                   : Yes
+Color Resolution Depth          : 5
+Bits Per Pixel                  : 5
+Background Color                : 0
+Image Size                      : 118x25
+Megapixels                      : 0.003
+======== extracted_bilder/gif/00000058.gif
+ExifTool Version Number         : 13.25
+File Name                       : 00000058.gif
+Directory                       : extracted_bilder/gif
+File Size                       : 1850 bytes
+File Modification Date/Time     : 2025:07:31 06:32:35-04:00
+File Access Date/Time           : 2025:07:31 06:32:35-04:00
+File Inode Change Date/Time     : 2025:07:31 06:32:35-04:00
+File Permissions                : -rw-rw-r--
+File Type                       : GIF
+File Type Extension             : gif
+MIME Type                       : image/gif
+GIF Version                     : 89a
+Image Width                     : 120
+Image Height                    : 42
+Has Color Map                   : Yes
+Color Resolution Depth          : 6
+Bits Per Pixel                  : 6
+Background Color                : 0
+Image Size                      : 120x42
+Megapixels                      : 0.005
+======== extracted_bilder/jpg/00001542.jpg
+ExifTool Version Number         : 13.25
+File Name                       : 00001542.jpg
+Directory                       : extracted_bilder/jpg
+File Size                       : 29 kB
+File Modification Date/Time     : 2025:07:31 06:32:35-04:00
+File Access Date/Time           : 2025:07:31 06:32:35-04:00
+File Inode Change Date/Time     : 2025:07:31 06:32:35-04:00
+File Permissions                : -rw-rw-r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+JFIF Version                    : 1.01
+Resolution Unit                 : None
+X Resolution                    : 1
+Y Resolution                    : 1
+Image Width                     : 640
+Image Height                    : 480
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:2 (2 1)
+Image Size                      : 640x480
+Megapixels                      : 0.307
+======== extracted_bilder/jpg/00008502.jpg
+ExifTool Version Number         : 13.25
+File Name                       : 00008502.jpg
+Directory                       : extracted_bilder/jpg
+File Size                       : 17 kB
+File Modification Date/Time     : 2025:07:31 06:32:35-04:00
+File Access Date/Time           : 2025:07:31 06:32:35-04:00
+File Inode Change Date/Time     : 2025:07:31 06:32:35-04:00
+File Permissions                : -rw-rw-r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+JFIF Version                    : 1.01
+Resolution Unit                 : None
+X Resolution                    : 1
+Y Resolution                    : 1
+Image Width                     : 288
+Image Height                    : 352
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:2 (2 1)
+Image Size                      : 288x352
+Megapixels                      : 0.101
+======== extracted_bilder/jpg/00001608.jpg
+ExifTool Version Number         : 13.25
+File Name                       : 00001608.jpg
+Directory                       : extracted_bilder/jpg
+File Size                       : 4.7 kB
+File Modification Date/Time     : 2025:07:31 06:32:35-04:00
+File Access Date/Time           : 2025:07:31 06:32:35-04:00
+File Inode Change Date/Time     : 2025:07:31 06:32:35-04:00
+File Permissions                : -rw-rw-r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+JFIF Version                    : 1.01
+Resolution Unit                 : None
+X Resolution                    : 1
+Y Resolution                    : 1
+Image Width                     : 160
+Image Height                    : 120
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+Image Size                      : 160x120
+Megapixels                      : 0.019
+======== extracted_bilder/jpg/00000790.jpg
+ExifTool Version Number         : 13.25
+File Name                       : 00000790.jpg
+Directory                       : extracted_bilder/jpg
+File Size                       : 35 kB
+File Modification Date/Time     : 2025:07:31 06:32:35-04:00
+File Access Date/Time           : 2025:07:31 06:32:35-04:00
+File Inode Change Date/Time     : 2025:07:31 06:32:35-04:00
+File Permissions                : -rw-rw-r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+JFIF Version                    : 1.01
+Resolution Unit                 : None
+X Resolution                    : 1
+Y Resolution                    : 1
+Image Width                     : 640
+Image Height                    : 480
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:2 (2 1)
+Image Size                      : 640x480
+Megapixels                      : 0.307
+======== extracted_bilder/jpg/00008537.jpg
+ExifTool Version Number         : 13.25
+File Name                       : 00008537.jpg
+Directory                       : extracted_bilder/jpg
+File Size                       : 128 kB
+File Modification Date/Time     : 2025:07:31 06:32:35-04:00
+File Access Date/Time           : 2025:07:31 06:32:35-04:00
+File Inode Change Date/Time     : 2025:07:31 06:32:35-04:00
+File Permissions                : -rw-rw-r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+JFIF Version                    : 1.01
+Resolution Unit                 : None
+X Resolution                    : 1
+Y Resolution                    : 1
+Image Width                     : 288
+Image Height                    : 352
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:2 (2 1)
+Image Size                      : 288x352
+Megapixels                      : 0.101
+======== extracted_bilder/jpg/00001292.jpg
+ExifTool Version Number         : 13.25
+File Name                       : 00001292.jpg
+Directory                       : extracted_bilder/jpg
+File Size                       : 24 kB
+File Modification Date/Time     : 2025:07:31 06:32:35-04:00
+File Access Date/Time           : 2025:07:31 06:32:35-04:00
+File Inode Change Date/Time     : 2025:07:31 06:32:35-04:00
+File Permissions                : -rw-rw-r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+JFIF Version                    : 1.01
+Resolution Unit                 : None
+X Resolution                    : 1
+Y Resolution                    : 1
+Image Width                     : 640
+Image Height                    : 480
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:2 (2 1)
+Image Size                      : 640x480
+Megapixels                      : 0.307
+======== extracted_bilder/png/00000453.png
+ExifTool Version Number         : 13.25
+File Name                       : 00000453.png
+Directory                       : extracted_bilder/png
+File Size                       : 1382 bytes
+File Modification Date/Time     : 2025:07:31 06:32:35-04:00
+File Access Date/Time           : 2025:07:31 06:32:35-04:00
+File Inode Change Date/Time     : 2025:07:31 06:32:35-04:00
+File Permissions                : -rw-rw-r--
+File Type                       : PNG
+File Type Extension             : png
+MIME Type                       : image/png
+Image Width                     : 192
+Image Height                    : 192
+Bit Depth                       : 4
+Color Type                      : Palette
+Compression                     : Deflate/Inflate
+Filter                          : Adaptive
+Interlace                       : Noninterlaced
+Significant Bits                : 8 8 8
+Palette                         : (Binary data 21 bytes, use -b option to extract)
+Pixels Per Unit X               : 2800
+Pixels Per Unit Y               : 2800
+Pixel Units                     : meters
+Software                        : Macromedia Fireworks MX
+Image Size                      : 192x192
+Megapixels                      : 0.037
+======== extracted_bilder/png/00000483.png
+ExifTool Version Number         : 13.25
+File Name                       : 00000483.png
+Directory                       : extracted_bilder/png
+File Size                       : 2.0 kB
+File Modification Date/Time     : 2025:07:31 06:32:35-04:00
+File Access Date/Time           : 2025:07:31 06:32:35-04:00
+File Inode Change Date/Time     : 2025:07:31 06:32:35-04:00
+File Permissions                : -rw-rw-r--
+File Type                       : PNG
+File Type Extension             : png
+MIME Type                       : image/png
+Image Width                     : 192
+Image Height                    : 192
+Bit Depth                       : 4
+Color Type                      : Palette
+Compression                     : Deflate/Inflate
+Filter                          : Adaptive
+Interlace                       : Noninterlaced
+Significant Bits                : 8 8 8
+Palette                         : (Binary data 36 bytes, use -b option to extract)
+Pixels Per Unit X               : 2800
+Pixels Per Unit Y               : 2800
+Pixel Units                     : meters
+Software                        : Macromedia Fireworks MX
+Image Size                      : 192x192
+Megapixels                      : 0.037
+======== extracted_bilder/png/00000448.png
+ExifTool Version Number         : 13.25
+File Name                       : 00000448.png
+Directory                       : extracted_bilder/png
+File Size                       : 1381 bytes
+File Modification Date/Time     : 2025:07:31 06:32:35-04:00
+File Access Date/Time           : 2025:07:31 06:32:35-04:00
+File Inode Change Date/Time     : 2025:07:31 06:32:35-04:00
+File Permissions                : -rw-rw-r--
+File Type                       : PNG
+File Type Extension             : png
+MIME Type                       : image/png
+Image Width                     : 192
+Image Height                    : 192
+Bit Depth                       : 4
+Color Type                      : Palette
+Compression                     : Deflate/Inflate
+Filter                          : Adaptive
+Interlace                       : Noninterlaced
+Significant Bits                : 8 8 8
+Palette                         : (Binary data 24 bytes, use -b option to extract)
+Pixels Per Unit X               : 3779
+Pixels Per Unit Y               : 3779
+Pixel Units                     : meters
+Software                        : Macromedia Fireworks MX
+Creation Time                   : 09/17/02
+Image Size                      : 192x192
+Megapixels                      : 0.037
+======== extracted_bilder/png/00009060.png
+ExifTool Version Number         : 13.25
+File Name                       : 00009060.png
+Directory                       : extracted_bilder/png
+File Size                       : 6.5 kB
+File Modification Date/Time     : 2025:07:31 06:32:35-04:00
+File Access Date/Time           : 2025:07:31 06:32:35-04:00
+File Inode Change Date/Time     : 2025:07:31 06:32:35-04:00
+File Permissions                : -rw-rw-r--
+File Type                       : PNG
+File Type Extension             : png
+MIME Type                       : image/png
+Image Width                     : 128
+Image Height                    : 128
+Bit Depth                       : 8
+Color Type                      : Palette
+Compression                     : Deflate/Inflate
+Filter                          : Adaptive
+Interlace                       : Noninterlaced
+Palette                         : (Binary data 699 bytes, use -b option to extract)
+Image Size                      : 128x128
+Megapixels                      : 0.016
+======== extracted_bilder/png/00000982.png
+ExifTool Version Number         : 13.25
+File Name                       : 00000982.png
+Directory                       : extracted_bilder/png
+File Size                       : 452 bytes
+File Modification Date/Time     : 2025:07:31 06:32:35-04:00
+File Access Date/Time           : 2025:07:31 06:32:35-04:00
+File Inode Change Date/Time     : 2025:07:31 06:32:35-04:00
+File Permissions                : -rw-rw-r--
+File Type                       : PNG
+File Type Extension             : png
+MIME Type                       : image/png
+Image Width                     : 54
+Image Height                    : 28
+Bit Depth                       : 4
+Color Type                      : Palette
+Compression                     : Deflate/Inflate
+Filter                          : Adaptive
+Interlace                       : Noninterlaced
+Palette                         : (Binary data 24 bytes, use -b option to extract)
+Transparency                    : (Binary data 8 bytes, use -b option to extract)
+Image Size                      : 54x28
+Megapixels                      : 0.002
+======== extracted_bilder/png/00000430.png
+ExifTool Version Number         : 13.25
+File Name                       : 00000430.png
+Directory                       : extracted_bilder/png
+File Size                       : 1760 bytes
+File Modification Date/Time     : 2025:07:31 06:32:35-04:00
+File Access Date/Time           : 2025:07:31 06:32:35-04:00
+File Inode Change Date/Time     : 2025:07:31 06:32:35-04:00
+File Permissions                : -rw-rw-r--
+File Type                       : PNG
+File Type Extension             : png
+MIME Type                       : image/png
+Image Width                     : 192
+Image Height                    : 192
+Bit Depth                       : 4
+Color Type                      : Palette
+Compression                     : Deflate/Inflate
+Filter                          : Adaptive
+Interlace                       : Noninterlaced
+Significant Bits                : 8 8 8
+Palette                         : (Binary data 21 bytes, use -b option to extract)
+Pixels Per Unit X               : 2800
+Pixels Per Unit Y               : 2800
+Pixel Units                     : meters
+Software                        : Macromedia Fireworks MX
+Image Size                      : 192x192
+Megapixels                      : 0.037
+======== extracted_bilder/png/00008960.png
+ExifTool Version Number         : 13.25
+File Name                       : 00008960.png
+Directory                       : extracted_bilder/png
+File Size                       : 9.4 kB
+File Modification Date/Time     : 2025:07:31 06:32:35-04:00
+File Access Date/Time           : 2025:07:31 06:32:35-04:00
+File Inode Change Date/Time     : 2025:07:31 06:32:35-04:00
+File Permissions                : -rw-rw-r--
+File Type                       : PNG
+File Type Extension             : png
+MIME Type                       : image/png
+Image Width                     : 241
+Image Height                    : 62
+Bit Depth                       : 8
+Color Type                      : Palette
+Compression                     : Deflate/Inflate
+Filter                          : Adaptive
+Interlace                       : Noninterlaced
+Palette                         : (Binary data 729 bytes, use -b option to extract)
+Image Size                      : 241x62
+Megapixels                      : 0.015
+======== extracted_bilder/png/00000442.png
+ExifTool Version Number         : 13.25
+File Name                       : 00000442.png
+Directory                       : extracted_bilder/png
+File Size                       : 782 bytes
+File Modification Date/Time     : 2025:07:31 06:32:35-04:00
+File Access Date/Time           : 2025:07:31 06:32:35-04:00
+File Inode Change Date/Time     : 2025:07:31 06:32:35-04:00
+File Permissions                : -rw-rw-r--
+File Type                       : PNG
+File Type Extension             : png
+MIME Type                       : image/png
+Image Width                     : 192
+Image Height                    : 192
+Bit Depth                       : 2
+Color Type                      : Palette
+Compression                     : Deflate/Inflate
+Filter                          : Adaptive
+Interlace                       : Noninterlaced
+Significant Bits                : 8 8 8
+Palette                         : (Binary data 12 bytes, use -b option to extract)
+Pixels Per Unit X               : 2800
+Pixels Per Unit Y               : 2800
+Pixel Units                     : meters
+Software                        : Macromedia Fireworks MX
+Image Size                      : 192x192
+Megapixels                      : 0.037
+======== extracted_bilder/png/00000451.png
+ExifTool Version Number         : 13.25
+File Name                       : 00000451.png
+Directory                       : extracted_bilder/png
+File Size                       : 1142 bytes
+File Modification Date/Time     : 2025:07:31 06:32:35-04:00
+File Access Date/Time           : 2025:07:31 06:32:35-04:00
+File Inode Change Date/Time     : 2025:07:31 06:32:35-04:00
+File Permissions                : -rw-rw-r--
+File Type                       : PNG
+File Type Extension             : png
+MIME Type                       : image/png
+Image Width                     : 192
+Image Height                    : 192
+Bit Depth                       : 4
+Color Type                      : Palette
+Compression                     : Deflate/Inflate
+Filter                          : Adaptive
+Interlace                       : Noninterlaced
+Significant Bits                : 8 8 8
+Palette                         : (Binary data 21 bytes, use -b option to extract)
+Pixels Per Unit X               : 3779
+Pixels Per Unit Y               : 3779
+Pixel Units                     : meters
+Software                        : Macromedia Fireworks MX
+Creation Time                   : 09/17/02
+Image Size                      : 192x192
+Megapixels                      : 0.037
+======== extracted_bilder/png/00000460.png
+ExifTool Version Number         : 13.25
+File Name                       : 00000460.png
+Directory                       : extracted_bilder/png
+File Size                       : 1674 bytes
+File Modification Date/Time     : 2025:07:31 06:32:35-04:00
+File Access Date/Time           : 2025:07:31 06:32:35-04:00
+File Inode Change Date/Time     : 2025:07:31 06:32:35-04:00
+File Permissions                : -rw-rw-r--
+File Type                       : PNG
+File Type Extension             : png
+MIME Type                       : image/png
+Image Width                     : 192
+Image Height                    : 192
+Bit Depth                       : 4
+Color Type                      : Palette
+Compression                     : Deflate/Inflate
+Filter                          : Adaptive
+Interlace                       : Noninterlaced
+Significant Bits                : 8 8 8
+Palette                         : (Binary data 36 bytes, use -b option to extract)
+Pixels Per Unit X               : 2800
+Pixels Per Unit Y               : 2800
+Pixel Units                     : meters
+Software                        : Macromedia Fireworks MX
+Image Size                      : 192x192
+Megapixels                      : 0.037
+======== extracted_bilder/png/00001002.png
+ExifTool Version Number         : 13.25
+File Name                       : 00001002.png
+Directory                       : extracted_bilder/png
+File Size                       : 6.7 kB
+File Modification Date/Time     : 2025:07:31 06:32:35-04:00
+File Access Date/Time           : 2025:07:31 06:32:35-04:00
+File Inode Change Date/Time     : 2025:07:31 06:32:35-04:00
+File Permissions                : -rw-rw-r--
+File Type                       : PNG
+File Type Extension             : png
+MIME Type                       : image/png
+Image Width                     : 128
+Image Height                    : 128
+Bit Depth                       : 8
+Color Type                      : Palette
+Compression                     : Deflate/Inflate
+Filter                          : Adaptive
+Interlace                       : Noninterlaced
+Palette                         : (Binary data 150 bytes, use -b option to extract)
+Image Size                      : 128x128
+Megapixels                      : 0.016
+======== extracted_bilder/png/00000464.png
+ExifTool Version Number         : 13.25
+File Name                       : 00000464.png
+Directory                       : extracted_bilder/png
+File Size                       : 3.7 kB
+File Modification Date/Time     : 2025:07:31 06:32:35-04:00
+File Access Date/Time           : 2025:07:31 06:32:35-04:00
+File Inode Change Date/Time     : 2025:07:31 06:32:35-04:00
+File Permissions                : -rw-rw-r--
+File Type                       : PNG
+File Type Extension             : png
+MIME Type                       : image/png
+Image Width                     : 128
+Image Height                    : 128
+Bit Depth                       : 8
+Color Type                      : Palette
+Compression                     : Deflate/Inflate
+Filter                          : Adaptive
+Interlace                       : Noninterlaced
+Palette                         : (Binary data 192 bytes, use -b option to extract)
+Image Size                      : 128x128
+Megapixels                      : 0.016
+======== extracted_bilder/png/00000428.png
+ExifTool Version Number         : 13.25
+File Name                       : 00000428.png
+Directory                       : extracted_bilder/png
+File Size                       : 989 bytes
+File Modification Date/Time     : 2025:07:31 06:32:35-04:00
+File Access Date/Time           : 2025:07:31 06:32:35-04:00
+File Inode Change Date/Time     : 2025:07:31 06:32:35-04:00
+File Permissions                : -rw-rw-r--
+File Type                       : PNG
+File Type Extension             : png
+MIME Type                       : image/png
+Image Width                     : 192
+Image Height                    : 192
+Bit Depth                       : 4
+Color Type                      : Palette
+Compression                     : Deflate/Inflate
+Filter                          : Adaptive
+Interlace                       : Noninterlaced
+Significant Bits                : 8 8 8
+Palette                         : (Binary data 15 bytes, use -b option to extract)
+Pixels Per Unit X               : 2800
+Pixels Per Unit Y               : 2800
+Pixel Units                     : meters
+Software                        : Macromedia Fireworks MX
+Image Size                      : 192x192
+Megapixels                      : 0.037
+======== extracted_bilder/png/00000999.png
+ExifTool Version Number         : 13.25
+File Name                       : 00000999.png
+Directory                       : extracted_bilder/png
+File Size                       : 583 bytes
+File Modification Date/Time     : 2025:07:31 06:32:35-04:00
+File Access Date/Time           : 2025:07:31 06:32:35-04:00
+File Inode Change Date/Time     : 2025:07:31 06:32:35-04:00
+File Permissions                : -rw-rw-r--
+File Type                       : PNG
+File Type Extension             : png
+MIME Type                       : image/png
+Image Width                     : 140
+Image Height                    : 18
+Bit Depth                       : 4
+Color Type                      : Palette
+Compression                     : Deflate/Inflate
+Filter                          : Adaptive
+Interlace                       : Noninterlaced
+Palette                         : (Binary data 18 bytes, use -b option to extract)
+Transparency                    : 255 255 255 255 255 0
+Image Size                      : 140x18
+Megapixels                      : 0.003
+======== extracted_bilder/png/00000434.png
+ExifTool Version Number         : 13.25
+File Name                       : 00000434.png
+Directory                       : extracted_bilder/png
+File Size                       : 901 bytes
+File Modification Date/Time     : 2025:07:31 06:32:35-04:00
+File Access Date/Time           : 2025:07:31 06:32:35-04:00
+File Inode Change Date/Time     : 2025:07:31 06:32:35-04:00
+File Permissions                : -rw-rw-r--
+File Type                       : PNG
+File Type Extension             : png
+MIME Type                       : image/png
+Image Width                     : 192
+Image Height                    : 192
+Bit Depth                       : 2
+Color Type                      : Palette
+Compression                     : Deflate/Inflate
+Filter                          : Adaptive
+Interlace                       : Noninterlaced
+Significant Bits                : 8 8 8
+Palette                         : (Binary data 12 bytes, use -b option to extract)
+Pixels Per Unit X               : 2800
+Pixels Per Unit Y               : 2800
+Pixel Units                     : meters
+Software                        : Macromedia Fireworks MX
+Image Size                      : 192x192
+Megapixels                      : 0.037
+======== extracted_bilder/png/00000439.png
+ExifTool Version Number         : 13.25
+File Name                       : 00000439.png
+Directory                       : extracted_bilder/png
+File Size                       : 805 bytes
+File Modification Date/Time     : 2025:07:31 06:32:35-04:00
+File Access Date/Time           : 2025:07:31 06:32:35-04:00
+File Inode Change Date/Time     : 2025:07:31 06:32:35-04:00
+File Permissions                : -rw-rw-r--
+File Type                       : PNG
+File Type Extension             : png
+MIME Type                       : image/png
+Image Width                     : 192
+Image Height                    : 192
+Bit Depth                       : 2
+Color Type                      : Palette
+Compression                     : Deflate/Inflate
+Filter                          : Adaptive
+Interlace                       : Noninterlaced
+Significant Bits                : 8 8 8
+Palette                         : (Binary data 12 bytes, use -b option to extract)
+Pixels Per Unit X               : 2800
+Pixels Per Unit Y               : 2800
+Pixel Units                     : meters
+Software                        : Macromedia Fireworks MX
+Image Size                      : 192x192
+Megapixels                      : 0.037
+======== extracted_bilder/png/00000367.png
+ExifTool Version Number         : 13.25
+File Name                       : 00000367.png
+Directory                       : extracted_bilder/png
+File Size                       : 1621 bytes
+File Modification Date/Time     : 2025:07:31 06:32:35-04:00
+File Access Date/Time           : 2025:07:31 06:32:35-04:00
+File Inode Change Date/Time     : 2025:07:31 06:32:35-04:00
+File Permissions                : -rw-rw-r--
+File Type                       : PNG
+File Type Extension             : png
+MIME Type                       : image/png
+Image Width                     : 128
+Image Height                    : 128
+Bit Depth                       : 8
+Color Type                      : Palette
+Compression                     : Deflate/Inflate
+Filter                          : Adaptive
+Interlace                       : Noninterlaced
+Palette                         : (Binary data 51 bytes, use -b option to extract)
+Image Size                      : 128x128
+Megapixels                      : 0.016
+======== extracted_bilder/png/00009074.png
+ExifTool Version Number         : 13.25
+File Name                       : 00009074.png
+Directory                       : extracted_bilder/png
+File Size                       : 331 bytes
+File Modification Date/Time     : 2025:07:31 06:32:35-04:00
+File Access Date/Time           : 2025:07:31 06:32:35-04:00
+File Inode Change Date/Time     : 2025:07:31 06:32:35-04:00
+File Permissions                : -rw-rw-r--
+File Type                       : PNG
+File Type Extension             : png
+MIME Type                       : image/png
+Image Width                     : 16
+Image Height                    : 16
+Bit Depth                       : 8
+Color Type                      : Palette
+Compression                     : Deflate/Inflate
+Filter                          : Adaptive
+Interlace                       : Noninterlaced
+Palette                         : (Binary data 108 bytes, use -b option to extract)
+Image Size                      : 16x16
+Megapixels                      : 0.000256
+======== extracted_bilder/png/00000446.png
+ExifTool Version Number         : 13.25
+File Name                       : 00000446.png
+Directory                       : extracted_bilder/png
+File Size                       : 848 bytes
+File Modification Date/Time     : 2025:07:31 06:32:35-04:00
+File Access Date/Time           : 2025:07:31 06:32:35-04:00
+File Inode Change Date/Time     : 2025:07:31 06:32:35-04:00
+File Permissions                : -rw-rw-r--
+File Type                       : PNG
+File Type Extension             : png
+MIME Type                       : image/png
+Image Width                     : 192
+Image Height                    : 192
+Bit Depth                       : 4
+Color Type                      : Palette
+Compression                     : Deflate/Inflate
+Filter                          : Adaptive
+Interlace                       : Noninterlaced
+Significant Bits                : 8 8 8
+Palette                         : (Binary data 15 bytes, use -b option to extract)
+Pixels Per Unit X               : 2800
+Pixels Per Unit Y               : 2800
+Pixel Units                     : meters
+Software                        : Macromedia Fireworks MX
+Image Size                      : 192x192
+Megapixels                      : 0.037
+======== extracted_bilder/zip/00000899.zip
+ExifTool Version Number         : 13.25
+File Name                       : 00000899.zip
+Directory                       : extracted_bilder/zip
+File Size                       : 62 kB
+File Modification Date/Time     : 2025:07:31 06:32:35-04:00
+File Access Date/Time           : 2025:07:31 06:32:35-04:00
+File Inode Change Date/Time     : 2025:07:31 06:32:35-04:00
+File Permissions                : -rw-rw-r--
+File Type                       : ZIP
+File Type Extension             : zip
+MIME Type                       : application/zip
+Zip Required Version            : 20
+Zip Bit Flag                    : 0x0008
+Zip Compression                 : Deflated
+Zip Modify Date                 : 2002:10:13 14:14:16
+Zip CRC                         : 0x00000000
+Zip Compressed Size             : 2
+Zip Uncompressed Size           : 0
+Zip File Name                   : META-INF/
+Warning                         : [minor] Use the Duplicates option to extract tags for all 47 files
+    5 directories scanned
+   50 image files read
